@@ -1,0 +1,5 @@
+git init
+git status
+git add "filename"
+git commit -m "Change chapter 1" // commit massage
+git log // to see the time and author who does th change
