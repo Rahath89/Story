@@ -2,4 +2,6 @@ git init
 git status
 git add "filename"
 git commit -m "Change chapter 1" // commit massage
-git log // to see the time and author who does th change
+git log // to see the time and author who does the change/changes
+git diff chapter3.txt // to chacke the current file content and last save file content
+git checkout  filename // to revert back the last save of the content
